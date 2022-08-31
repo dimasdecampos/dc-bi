@@ -1,0 +1,20 @@
+{
+  "name": "dc-bi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasdecampos/dc-bi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasdecampos/dc-bi/issues"
+  },
+  "homepage": "https://github.com/dimasdecampos/dc-bi#readme"
+}
